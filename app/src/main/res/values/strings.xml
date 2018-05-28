@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Istanbul Tour Guide</string>
+
+    <string name="category_restaurants">Restaurants</string>
+
+    <string name="category_attractions">Attractions</string>
+
+    <string name="category_museums">Museums</string>
+
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Description of the images -->
+    <string name="enlarge_the_image">The image is magnified</string>
+    <string name="the_image_of_the_place">The image of the place</string>
+
+    <!-- placeholders  -->
+
+    <string name="list_item_placeholder_one">venueName</string>
+    <string name="list_item_placeholder_two">venueAddress</string>
+
+    <!-- Names of restaurants -->
+    <string name="rest01_name">Vogue</string>
+    <string name="rest02_name">Yeni Lokanta</string>
+    <string name="rest03_name">Bosphorus Grill</string>
+    <string name="rest04_name">Leb-i Derya</string>
+    <string name="rest05_name">Neolokal</string>
+    <string name="rest06_name">Mythos</string>
+    <string name="rest07_name">Bankalar Lokantası</string>
+    <string name="rest08_name">Galapagos</string>
+
+    <!-- Addresses of restaurants -->
+    <string name="rest01_address">Vişnezade Mah. Akaretler Spor Cd. No:92 A Blok, 34357 Beşiktaş/İstanbul</string>
+    <string name="rest02_address">Tomtom Mah. Kumbaracı Ykş. No:66, 34433 Beyoğlu/İstanbul</string>
+    <string name="rest03_address">Yıldız Mah. Çırağan Cd. No:32, 34349 Beşiktaş/İstanbul</string>
+    <string name="rest04_address">Şahkulu Mah., Kumbaracı Ykş. No:57, 34425 Beyoğlu/İstanbul</string>
+    <string name="rest05_address">Arap Cami Mah. Bankalar Cd. No:11, 34420 Beyoğlu/İstanbul</string>
+    <string name="rest06_address">Rasimpaşa Mah. Haydarpaşa Garı, 34716 Kadıköy/İstanbul</string>
+    <string name="rest07_address">Perşembe Pazarı Caddesi No:5 Bankalar Caddesi, Karaköy/İstanbul</string>
+    <string name="rest08_address">Basınköy, İstanbul Cd. No:35, 34153 Florya Bakırköy/İstanbul</string>
+
+    <!-- Names of attractions -->
+    <string name="att01_name">Blue Mosque</string>
+    <string name="att02_name">Land Walls of Theodosius</string>
+    <string name="att03_name">The Bosphorus Cruise</string>
+    <string name="att04_name">Basilica Cistern</string>
+    <string name="att05_name">Hippodrome</string>
+    <string name="att06_name">Prince Islands</string>
+    <string name="att07_name">Grand Bazaar</string>
+    <string name="att08_name">Phanar Greek Orthodox College</string>
+
+
+    <!-- Addresses of atractions -->
+    <string name="att01_address">Sultan Ahmet Mah. Atmeydanı Cd. No:7, 34122 Fatih/İstanbul</string>
+    <string name="att02_address">Edirnekapı/İstanbul</string>
+    <string name="att03_address">Various ports</string>
+    <string name="att04_address">Alemdar Mh., Yerebatan Cd. &#8531;, 34410 Fatih/İstanbul</string>
+    <string name="att05_address">Binbirdirek Mh., Sultan Ahmet Parkı No:2, 34122 Fatih/İstanbul</string>
+    <string name="att06_address"> Büyükada, Heybeliada, Burgaz Adası, Kınalıada </string>
+    <string name="att07_address">Beyazıt Mh., 34126 Fatih/İstanbul</string>
+    <string name="att08_address">Balat Mah. Sancaktar Ykş. No:36, 34087 Fatih/İstanbul</string>
+
+
+    <!-- Names of museums -->
+    <string name="museum01_name">Istanbul Archaeological Museums</string>
+    <string name="museum02_name">Hagia Sophia Museum / Church</string>
+    <string name="museum03_name">Topkapi Palace</string>
+    <string name="museum04_name">Pera Museum</string>
+    <string name="museum05_name">Turkish and Islamic Arts Museum</string>
+    <string name="museum06_name">Borusan Contemporary</string>
+    <string name="museum07_name">Sakip Sabanci Museum</string>
+    <string name="museum08_name">Salt Galata</string>
+
+    <!-- Addresses of museums -->
+    <string name="museum01_address">Cankurtaran Mah., 34122 Fatih/İstanbul</string>
+    <string name="museum02_address">Sultan Ahmet Mah. Ayasofya Meydanı, 34122 Fatih/İstanbul</string>
+    <string name="museum03_address">Cankurtaran Mh., 34122 Fatih/İstanbul</string>
+    <string name="museum04_address">Asmalı Mescit Mah. Meşrutiyet Cd. No:65, 34430 Beyoğlu/İstanbul</string>
+    <string name="museum05_address">Sultan Ahmet Mah. Meydanı Sok. No:46, 34122 Fatih/İstanbul</string>
+    <string name="museum06_address">Balta Limanı Hisar Cd. No:5/, 34470 Sarıyer/İstanbul</string>
+    <string name="museum07_address">Emirgan Mah. Sakıp Sabancı Cd. No:42, 34467 Sarıyer/İstanbul</string>
+    <string name="museum08_address">Arap Cami Mah. Bankalar Cd. No:11, 34420 Beyoğlu/İstanbul</string>
+
+    <!-- Names of hotels -->
+    <string name="hotel01_name">Tarabya</string>
+    <string name="hotel02_name">The Marmara</string>
+    <string name="hotel03_name">DoubleTree By Hilton</string>
+    <string name="hotel04_name">Pera Palace</string>
+    <string name="hotel05_name">Hush Hostel</string>
+    <string name="hotel06_name">The International Orient Hostel</string>
+    <string name="hotel07_name">Dedeman</string>
+    <string name="hotel08_name">Grand Hyatt</string>
+
+    <!-- Addresses of hotels -->
+    <string name="hotel01_address">Tarabya Mah. Haydar Aliyev Cd. No:154, 34457 Tarabya, Sarıyer/İstanbul</string>
+    <string name="hotel02_address">Gümüşsuyu Mah. Taksim Meydani/Osmanlı Sok. 1/B, 34437 Beyoğlu/İstanbul</string>
+    <string name="hotel03_address">Caferağa Mah. Albay Faik Sözdener Cd. No:31, 34710 Kadıköy/İstanbul</string>
+    <string name="hotel04_address">Meşrutiyet Cd. No:52, 34430 Tepebaşı Beyoğlu/İstanbul</string>
+    <string name="hotel05_address">Caferağa Mah. Güneşli Bahçe Sok. 50/B Kadıköy/İstanbul</string>
+    <string name="hotel06_address">Cankurtaran Mh., Akbıyık Cd. No:9, 34122 Fatih/İstanbul</string>
+    <string name="hotel07_address"> Değirmen Yolu Cad. No:39B İçerenköy Mah. Ataşehir/İstanbul</string>
+    <string name="hotel08_address">Harbiye Mah. Taskısla Cd. No:1, 34367 Şişli/İstanbul</string>
+</resources>
